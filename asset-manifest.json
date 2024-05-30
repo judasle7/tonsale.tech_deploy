@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.94e2d55c.css",
-    "main.js": "/static/js/main.becff563.js",
+    "main.js": "/static/js/main.1871ec53.js",
     "static/js/453.de2c4043.chunk.js": "/static/js/453.de2c4043.chunk.js",
     "static/media/modal-create-token.png": "/static/media/modal-create-token.eb890a8b65eabbcbdde3.png",
     "static/media/modal-create-launchpad.png": "/static/media/modal-create-launchpad.dba8ab65c286d7f10b9c.png",
@@ -14,6 +14,6 @@
   },
   "entrypoints": [
     "static/css/main.94e2d55c.css",
-    "static/js/main.becff563.js"
+    "static/js/main.1871ec53.js"
   ]
 }
